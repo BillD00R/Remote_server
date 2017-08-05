@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote_server", "WindowsFormsApp1\Remote_server.csproj", "{1D4C9194-037C-436E-A506-C9215C224120}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote_server", "Remote_server\Remote_server.csproj", "{1D4C9194-037C-436E-A506-C9215C224120}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
